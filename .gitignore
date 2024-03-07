@@ -1,2 +1,7 @@
-/server/report-service
 node_modules
+
+/server/report-service
+
+/client/report-generator-web/public
+/client/report-generator-web/build
+/client/report-generator-web/.firebase
